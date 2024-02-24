@@ -1,6 +1,6 @@
 Derleyip dll dosyasını kullanmak istediğiniz projeye import edin.
 
-          Örnek Kod;
+          
 
             Sunucum sunucum = new Sunucum("192.168.1.20",4141,15000);
             sunucum.Baglan();
